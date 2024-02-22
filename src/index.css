@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link:focus{
+  border-bottom: 2px solid red;
+}
+
+.nav-item .nav-link:hover{
+  background-color: gray;
+  
+}
+
+.bi-heart-fill{
+  color: red;
+}
+
+.bi-heart{
+  color: black;
+}
+
+.bi-shield-fill-plus{
+  color: gold;
+}
